@@ -1,0 +1,227 @@
+[
+  {
+    "q": "Är du aktiv i din vardag??",
+    "ja": {
+      "katt": 5,
+      "hund": 5,
+      "kanin": 2,
+      "fisk": 1
+    },
+    "nej": {
+      "katt": 3,
+      "hund": 0,
+      "kanin": 2,
+      "fisk": 3
+    }
+  },
+  {
+    "q": "Gillar du att vara ute?",
+    "ja": {
+      "katt": 5,
+      "hund": 5,
+      "kanin": 2,
+      "fisk": 2
+    },
+    "nej": {
+      "katt": 3,
+      "hund": 2,
+      "kanin": 5,
+      "fisk": 3
+    }
+  },
+  {
+    "q": "Trivs du bra ute i naturen?",
+    "ja": {
+      "katt": 4,
+      "hund": 4,
+      "kanin": 2,
+      "fisk": 5
+    },
+    "nej": {
+      "katt": 1,
+      "hund": 5,
+      "kanin": 5,
+      "fisk": 6
+    }
+  },
+  {
+    "q": "Tycker du om att åka på semester?",
+    "ja": {
+      "katt": 0,
+      "hund": 3,
+      "kanin": 2,
+      "fisk": 10
+    },
+    "nej": {
+      "katt": 1,
+      "hund": 5,
+      "kanin": 5,
+      "fisk": 6
+    }
+  },
+  {
+    "q": "Smör?",
+    "ja": {
+      "katt": 1,
+      "hund": 3,
+      "kanin": 2,
+      "fisk": 10
+    },
+    "nej": {
+      "katt": 1,
+      "hund": 2,
+      "kanin": 7,
+      "fisk": -1
+    }
+  },
+  {
+    "q": "Har du depression?",
+    "ja": {
+      "katt": 5,
+      "hund": 5,
+      "kanin": 3,
+      "fisk": 3
+    },
+    "nej": {
+      "katt": 2,
+      "hund": 2,
+      "kanin": 5,
+      "fisk": 6
+    }
+  },
+  {
+    "q": "Stigande oljepriser?",
+    "ja": {
+      "katt": 4,
+      "hund": -2,
+      "kanin": 2,
+      "fisk": -4
+    },
+    "nej": {
+      "katt": 1,
+      "hund": 2,
+      "kanin": -1,
+      "fisk": 3
+    }
+  },
+  {
+    "q": "How it be sometimes?",
+    "ja": {
+      "katt": 5,
+      "hund": 3,
+      "kanin": 2,
+      "fisk": 4
+    },
+    "nej": {
+      "katt": 1,
+      "hund": 5,
+      "kanin": 5,
+      "fisk": 2
+    }
+  },
+  {
+    "q": "Tar du hellre och stannar hemma än att gå ut på helgen?",
+    "ja": {
+      "katt": 2,
+      "hund": 3,
+      "kanin": 2,
+      "fisk": 4
+    },
+    "nej": {
+      "katt": 1,
+      "hund": 5,
+      "kanin": 5,
+      "fisk": -3
+    }
+  },
+  {
+    "q": "Tycker du om att simma?",
+    "ja": {
+      "katt": 1,
+      "hund": 3,
+      "kanin": 2,
+      "fisk": 5
+    },
+    "nej": {
+      "katt": 1,
+      "hund": 5,
+      "kanin": 5,
+      "fisk": 6
+    }
+  },
+  {
+    "q": "Har du råd att åka till veterinären?",
+    "ja": {
+      "katt": 4,
+      "hund": 4,
+      "kanin": 6,
+      "fisk": 2
+    },
+    "nej": {
+      "katt": 1,
+      "hund": -2,
+      "kanin": 3,
+      "fisk": 7
+    }
+  },
+  {
+    "q": "Bröd?",
+    "ja": {
+      "katt": 2,
+      "hund": 2,
+      "kanin": 2,
+      "fisk": 4
+    },
+    "nej": {
+      "katt": 4,
+      "hund": 5,
+      "kanin": 5,
+      "fisk": 3
+    }
+  },
+  {
+    "q": "Äter du mycket choklad?",
+    "ja": {
+      "katt": 2,
+      "hund": -3,
+      "kanin": 2,
+      "fisk": 1
+    },
+    "nej": {
+      "katt": 3,
+      "hund": 5,
+      "kanin": 6,
+      "fisk": 2
+    }
+  },
+  {
+    "q": "Gillar du fisk? :)",
+    "ja": {
+      "katt": 1,
+      "hund": 2,
+      "kanin": 2,
+      "fisk": -1
+    },
+    "nej": {
+      "katt": 1,
+      "hund": 5,
+      "kanin": 5,
+      "fisk": 4
+    }
+  },
+  {
+    "q": "Har du upplevt att detta har varit ett bra formulär?",
+    "ja": {
+      "katt": 2,
+      "hund": 4,
+      "kanin": 4,
+      "fisk": 2
+    },
+    "nej": {
+      "katt": 4,
+      "hund": 2,
+      "kanin": 2,
+      "fisk": 4
+    }
+  }
+]

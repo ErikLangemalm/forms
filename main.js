@@ -33,8 +33,8 @@ function resSaveAndPrint(nameAr, resAr) {
       highestIndex = i;
     }
   }
-  console.log(nameAr[highestIndex] + " is the animal that suits you best with a percentage of " + Math.trunc(highestValue));
-  console.log("The percentage of all the animals available is down below:");
+  console.log(nameAr[highestIndex] + " är djuret som är rätt för dig med en procent sats på " + Math.trunc(highestValue));
+  console.log("Procent satsen på alla djur ser du här nedan:");
   for (let i = 0; i < nameAr.length; i++) {
     console.log(nameAr[i] + " : " + resAr[i]);
   }
@@ -79,21 +79,21 @@ function compare(katt, hund, fisk, kanin) {
 
 }
 function main() {
-  console.log("Hi and welcome to this quiz!");
-  console.log("Every question is answered with yes or no. Wrong answer or spelling restarts the quiz");
+  console.log("Hej och välkommen till detta fråge formulär!");
+  console.log("Varje fråga besvaras med antingen jag eller nej");
   let yourResult = new result();
   for (let i = 0; i < questions.length; i++) {
     console.log(questions[i].q);
-    answer = toString(prompt().toLowerCase());
+    answer = prompt().toLowerCase();
 
-    if (answer = "ja") {
+    if (answer == "ja") {
       yourResult.katt += questions[i].ja.katt;
       yourResult.hund += questions[i].ja.hund;
       yourResult.fisk += questions[i].ja.fisk;
       yourResult.kanin += questions[i].ja.kanin;
       console.clear();
     }
-    else if (answer = "nej") {
+    else if (answer == "nej") {
       yourResult.katt += questions[i].nej.katt;
       yourResult.hund += questions[i].nej.hund;
       yourResult.fisk += questions[i].nej.fisk;
@@ -112,5 +112,3 @@ function main() {
 }
 
 main()
-
-
