@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "Hej jag är ett namn": {
+        "cat": 30.76923076923077,
+        "dog": 30.76923076923077,
+        "fish": 15.384615384615385,
+        "rabbit": 23.076923076923077,
+        "date": "Fri Oct 06 2023 00:29:37 GMT+0200 (Central European Summer Time)"
+      }
+    },
+    {
+      "Hej jag är ett namn": {
+        "cat": 0,
+        "dog": 100,
+        "fish": 0,
+        "rabbit": 0,
+        "date": "Fri Oct 06 2023 09:00:56 GMT+0200 (Central European Summer Time)"
+      }
+    },
+    {
+      "Hej jag är ett namn": {
+        "cat": 30.76923076923077,
+        "dog": 30.76923076923077,
+        "fish": 15.384615384615385,
+        "rabbit": 23.076923076923077,
+        "date": "Fri Oct 06 2023 09:01:56 GMT+0200 (Central European Summer Time)"
+      }
+    },
+    {
+      "Hej jag är ett namn": {
+        "cat": 30.76923076923077,
+        "dog": 30.76923076923077,
+        "fish": 15.384615384615385,
+        "rabbit": 23.076923076923077,
+        "date": "Fri Oct 06 2023 09:02:49 GMT+0200 (Central European Summer Time)"
+      }
+    }
+  ]
+}
