@@ -71,10 +71,6 @@ function compare(katt, hund, fisk, kanin) {
   for (let i = 0; i < res.length; i++) {
     res[i] = (res[i] / sum) * 100;
   }
-  /*
-    for (let i = 0; i < res.length; i++) {
-      console.log(resNames[i] + ":" + res[i]);
-    }*/
   resSaveAndPrint(resNames, res)
 
 }

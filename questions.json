@@ -60,7 +60,7 @@
     }
   },
   {
-    "q": "Smör?",
+    "q": "Gillar du att cykla??",
     "ja": {
       "katt": 1,
       "hund": 3,
@@ -75,7 +75,7 @@
     }
   },
   {
-    "q": "Har du depression?",
+    "q": "Brukar du kolla på TV?",
     "ja": {
       "katt": 5,
       "hund": 5,
@@ -90,7 +90,7 @@
     }
   },
   {
-    "q": "Stigande oljepriser?",
+    "q": "Har du gått på bio?",
     "ja": {
       "katt": 4,
       "hund": -2,
@@ -105,7 +105,7 @@
     }
   },
   {
-    "q": "How it be sometimes?",
+    "q": "Är du mycket online?",
     "ja": {
       "katt": 5,
       "hund": 3,
@@ -165,7 +165,7 @@
     }
   },
   {
-    "q": "Bröd?",
+    "q": "Brukar du äta på restaurang?",
     "ja": {
       "katt": 2,
       "hund": 2,
